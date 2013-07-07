@@ -1,0 +1,30 @@
+[
+  {
+    "repository": "aocp_device_samsung_qcom-common",
+    "target_path": "device/samsung/qcom-common"
+  },
+  {
+    "repository": "aocp_device_samsung_msm8960-common",
+    "target_path": "device/samsung/msm8960-common"
+  },
+  {
+    "repository": "aocp_device_samsung_jf-common",
+    "target_path": "device/samsung/jf-common"
+  },
+  {
+    "repository": "android_kernel_samsung_jf",
+    "target_path": "kernel/samsung/jf"
+  },
+  {
+    "repository": "android_hardware_samsung",
+    "target_path": "hardware/samsung"
+  },
+  {
+    "repository": "proprietary_vendor_jflteatt",
+    "target_path": "vendor/samsung/jfltetmo"
+  },
+  {
+    "repository": "proprietary_vendor_jf-common",
+    "target_path": "vendor/samsung/jf-common"
+  }
+]
