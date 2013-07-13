@@ -21,7 +21,7 @@
   },
   {
     "repository": "proprietary_vendor_jflteatt",
-    "target_path": "vendor/samsung/jfltetmo"
+    "target_path": "vendor/samsung/jflteatt"
   },
   {
     "repository": "proprietary_vendor_jf-common",
