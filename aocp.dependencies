@@ -20,7 +20,7 @@
     "target_path": "hardware/samsung"
   },
   {
-    "repository": "proprietary_vendor_jflteatt",
+    "repository": "proprietary_vendor_jfltei337",
     "target_path": "vendor/samsung/jflteatt"
   },
   {
